@@ -1,6 +1,4 @@
-# Pizza-Sales-Analysis-------SQL
-Pizza Sales Analysis using SQL
-Project Overview
+# Pizza-Sales-Analysis Using SQL
 This project uses SQL to analyze pizza sales data and provide insights into customer behavior, popular pizzas, and inventory management. The goal is to help the business make data-driven decisions to improve operations.
 
 Features
